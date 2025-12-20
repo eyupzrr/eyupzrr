@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Eyup! 👋
 
-<!--
-**eyupzrr/eyupzrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Engineering Student at Fenerbahce University**
 
-Here are some ideas to get you started:
+I am a 20-year-old, 2nd-year Computer Engineering student with a strong ambition for software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Technical Skills
+- **Languages:** Java, C++, C
+- **Communication:** Fluent in English
+
+### 🌟 About Me
+- **Education:** Sophomore at **Fenerbahçe University**.
+- **Experience:** I am a **Physics Tutor For Two Year** and an **I Studied Acting At Başkent İletişim**. These passions help me communicate effectively within a team.
+- **Mindset:** Ambitious, work-loving, and a dedicated team player.
+
+### 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/eyup-%C3%B6zer-510416321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Email](eyuup.ozr0@gmail.com)
+
+*"20 years old | Engineering student | Lifelong learner"*
