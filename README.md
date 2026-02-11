@@ -18,7 +18,7 @@ I am a 20-year-old, 2nd-year Computer Engineering student with a strong ambition
   👉 [View PDF](Certificate_b8a20171720251.pdf)
 
 - **Acting Certificate – Başkent İletişim Akademisi**  
-  👉 [View PDF](99923862202600534458960 (1).pdf)
+  👉 [View PDF](Acting_Certificate_Baskent.pdf)
 
 
 ### 📫 Connect with me
