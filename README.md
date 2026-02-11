@@ -13,6 +13,14 @@ I am a 20-year-old, 2nd-year Computer Engineering student with a strong ambition
 - **Experience:** I am a **Physics Tutor For Two Year** and an **I Studied Acting At Başkent İletişim**. These passions help me communicate effectively within a team.
 - **Mindset:** Ambitious, work-loving, and a dedicated team player.
 
+- ### 📜 Certificates
+- **AFAD Volunteering Certificate**  
+  👉 [View PDF](Certificate_b8a20171720251.pdf)
+
+- **Acting Certificate – Başkent İletişim Akademisi**  
+  👉 [View PDF](99923862202600534458960 (1).pdf)
+
+
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/eyup-%C3%B6zer-510416321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - [Email](eyuup.ozr0@gmail.com)
