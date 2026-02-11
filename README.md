@@ -14,6 +14,12 @@ I am a 21-year-old, 2nd-year Computer Engineering student with a strong ambition
 - **Experience:** Physics Tutor for 2 years; Acting education at Başkent İletişim Akademisi. These passions help me communicate effectively within a team.
 - **Mindset:** Ambitious, work-loving, and a dedicated team player.
 
+### 🚀 Projects
+- **Diet Plan Calculator**  
+  Console-based Java application that calculates daily calorie and macronutrient needs based on user input.  
+  **Tech:** Java, Object-Oriented Programming  
+  👉 [View Repository](https://github.com/eyupzrr/diet-plan-java)
+
 - ### 📜 Certificates
 - **AFAD Volunteering Certificate**  
   👉 [View PDF](Certificate_b8a20171720251.pdf)
