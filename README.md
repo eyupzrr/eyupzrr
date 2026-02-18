@@ -17,11 +17,13 @@ I am a 21-year-old, 2nd-year Computer Engineering student with a strong ambition
 ### 🚀 Projects
 
 - **Diet Plan Calculator**
+
 Console-based Java application that calculates daily calorie and macronutrient needs based on user input.  
 **Tech:** Java, Object-Oriented Programming  
 👉 [View Repository](https://github.com/eyupzrr/diet-plan-java)
 
 - **OOP Bank Simulation**
+
 Console-based Java application simulating banking operations using core OOP principles.  
 **Tech:** Java, Object-Oriented Programming  
 👉 [View Repository](https://github.com/eyupzrr/oop-bank-simulation)
