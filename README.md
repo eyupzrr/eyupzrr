@@ -20,6 +20,14 @@ I am a 21-year-old, 2nd-year Computer Engineering student with a strong ambition
   **Tech:** Java, Object-Oriented Programming  
   👉 [View Repository](https://github.com/eyupzrr/diet-plan-java)
 
+  ---
+
+- **OOP Bank Simulation** 
+A console-based banking simulation demonstrating core OOP principles such as inheritance, polymorphism, and abstraction.  
+Includes multiple account types and different bank commission strategies.  
+**Tech:** Java, Object-Oriented Programming  
+🔗 [View Repository](https://github.com/eyupzrr/oop-bank-simulation)
+
 - ### 📜 Certificates
 - **AFAD Volunteering Certificate**  
   👉 [View PDF](Certificate_b8a20171720251.pdf)
