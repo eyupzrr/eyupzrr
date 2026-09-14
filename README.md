@@ -2,19 +2,27 @@
 
 **Computer Engineering Student at Fenerbahce University**
 
-I am a 21-year-old, 2nd-year Computer Engineering student with a strong ambition for software development.
+I am a 21-year-old, 3rd-year Computer Engineering student with a strong ambition for software development.
 
 ### 💻 Technical Skills
-- **Languages:** Java, C, C++
-- **Concepts:** Object-Oriented Programming, Basic Data Structures
+- **Languages & Technologies:** C#, ASP.NET, SQL, Java, C, C++, HTML, CSS, JavaScript, jQuery
+- **Concepts:** Object-Oriented Programming, Data Structures, Web Development
 - **Communication:** Fluent in English
 
 ### 🌟 About Me
-- **Education:** Sophomore at **Fenerbahçe University**.
-- **Experience:** Physics Tutor for 2 years; Acting education at Başkent İletişim Akademisi. These passions help me communicate effectively within a team.
+- **Education:** 3rd-year (Junior) student at **Fenerbahçe University**.
+- **Experience:** 
+  - 30-working-day Software Engineering Intern at **Matec Electronic**.
+  - Physics Tutor for 2 years; Acting education at Başkent İletişim Akademisi. These passions help me communicate effectively within a team.
 - **Mindset:** Ambitious, work-loving, and a dedicated team player.
 
 ### 🚀 Projects
+
+- **FilmYorumum**
+
+Web-based movie review platform allowing users to browse movies, write reviews, and interact with film content.  
+**Tech:** ASP.NET, C#, SQL, HTML, CSS, JavaScript, jQuery  
+👉 [View Repository](https://github.com/eyupzrr/FilmYorumum-asp.net)
 
 - **Diet Plan Calculator**
 
@@ -28,8 +36,7 @@ Console-based Java application simulating banking operations using core OOP prin
 **Tech:** Java, Object-Oriented Programming  
 👉 [View Repository](https://github.com/eyupzrr/oop-bank-simulation)
 
-
-- ### 📜 Certificates
+### 📜 Certificates
 - **AFAD Volunteering Certificate**  
   👉 [View PDF](Certificate_b8a20171720251.pdf)
 
